@@ -1,6 +1,6 @@
 # E-commerce-website
 
-visit: https://faysal3010.github.io/E-commerce-website/ 
+visit: https://FaysalMahmudSajan.github.io/E-commerce-website/ 
 
 
 ### Project
